@@ -1,0 +1,13 @@
+Essa pasta deve conter:
+
+1 - A Pasta "2.1.1 Carta Fiança" aonde estão as cartas fianças referentes aos aditivos
+
+
+2 - Os aditivos do contrato em formato pdf com o nome dos arquivos da forma abaixo:
+
+	"XX_AD_OBJETO_DATA OBS.pdf"
+
+	XX: número do aditivo.
+	OBJETO: objeto do aditivo.
+	DATA: Data do aditivo.
+	OBS: observação facultativa sobre o adtivo.

@@ -1,0 +1,34 @@
+Esse pasta devera conter as seguintes pastas:
+
+"2.1 Aditivos"
+	-> Aonde estão contidos os aditivos e as cartas fianças referentes aos aditivos do contrato.
+
+"2.2 Apostilamentos"
+	-> Aonde estão contidos os apostilamentos e as cartas fianças referentes aos mesmos.
+
+"2.3 Repactuações"
+	-> Estão contidas as repactuações do contrato.
+
+"2.4 Análises de Renovação"
+	-> Aonde estão contidas as planilhas de análise de renovação.
+
+"2.5 Atestados"
+	-> Aonde está contido o atestado do contrato.
+
+Essa pasta deverá conter os seguintes arquivos:
+
+1 - Contrato no formato PDF com o nome do arquivo da maneira descrita abaixo:
+	
+	"CTXXXX.20YY_CLIENTE.pdf"
+	
+	XXXX: número do contrato.
+	20YY: ano do contrato.
+	CLIENTE: Cliente do contrato em letras maiúsculas.
+
+2 - Carta Fiança do contrato no formato pdf com o nome do arquivo da descrita abaixo:
+	
+	"CF_CTXX.20YY_CLIENTE.pdf" 
+	
+	XXXX: número do contrato.
+	20YY: ano do contrato.
+	CLIENTE: Cliente do contrato em letras maiúsculas.

@@ -1,0 +1,4 @@
+Nesta Pasta serão colocadas todo e qualquer arquivo ou pasta referente a Gestão do Contrato,
+incluindo Faturamento.
+
+As Pastas e arquivos da Pasta "4 - Gestão" possuem arranjo e nomeclatura livre.

@@ -1,0 +1,11 @@
+Nesta pasta deve estar contido:
+
+1 - As Cartas Fianças dos aditivos do contrato em formato pdf com o nome dos arquivos da forma abaixo:
+
+	"YY_CF_XX_AD_OBJETO_DATA OBS.pdf"
+	
+	YY:número da carta fiança. 
+	XX: número do aditivo.
+	OBJETO: objeto do aditivo.
+	DATA: Data do aditivo.
+	OBS: observação facultativa sobre o adtivo.

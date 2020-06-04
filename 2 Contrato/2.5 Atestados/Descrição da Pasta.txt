@@ -1,0 +1,11 @@
+Esta pasta deve conter o Atestado em docx ou pdf com o nome do arquivo como especificado abaixo:
+
+	"Atestado_CLIENTE_CTXXXX.20YY_DD.MM.YY.ext"
+
+	.ext: Extensão do arquivo, sendo ela .docx ou .pdf
+	CLIENTE: Cliente do contrato em caixa alta
+	XXXX: número do contrato
+	20YY: ano do contrato
+	DD: dia do atestado com dois digitos, variando de 01 a 31.
+	MM: mês do atestado com dois digitos, variando de 01 a 12.
+	YY: ano do atestado com dois digitos, variando de 00 a 99.

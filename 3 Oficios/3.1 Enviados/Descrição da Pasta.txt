@@ -1,0 +1,21 @@
+Nesta Pasta devem estar contidos:
+
+1 - Os ofícios enviados ao Cliente, em formato pdf, em relação ao contrato com o nomes especificado
+da maneira abaixo:
+
+	"OF_XXXX.20YY_OBJETO_OBS.pdf"
+
+	XXXX: número do ofício.
+	20YY: ano do ofício.
+	OBJETO: Objeto/Assunto do ofício.
+	OBS: Observações sobre o arquivo/ofício.
+
+2 - Os ofícios originais enviados ao Cliente, em formato docx, em relação ao contrato com o nomes 
+especificado da maneira abaixo:
+
+	"OF_XXXX.20YY_OBJETO_OBS.pdf"
+
+	XXXX: número do ofício.
+	20YY: ano do ofício.
+	OBJETO: Objeto/Assunto do ofício.
+	OBS: Observações sobre o arquivo/ofício. 

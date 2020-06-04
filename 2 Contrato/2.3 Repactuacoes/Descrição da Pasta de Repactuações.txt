@@ -1,0 +1,6 @@
+Nesta Pasta serão colocadas as pastas referentes as repactuações contratuais no formato:
+
+	"20XX_20YY"
+
+	20XX: O Ano de referência 1 da Repactuação
+	20YY: O Ano de referência 2 da Repactuação

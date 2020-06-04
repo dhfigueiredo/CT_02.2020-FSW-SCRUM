@@ -1,0 +1,5 @@
+Devem estar contidos na Pasta:
+
+1 - A Pasta de ofícios Enviados: "3.1 Enviados".
+	
+2 - A Pasta de ofícios Recebidos: "3.2 Recebidos".
